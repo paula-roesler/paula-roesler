@@ -4,7 +4,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paula-roesler&layout=compact&show_icons=true&theme=radical)
 
-<img height="32" width="32" fill="#ffffff" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />
+<img height="32" width="32" fill="ffffff" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />
 
 <!--
 **paula-roesler/paula-roesler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
