@@ -23,6 +23,19 @@ Here are some ideas to get you started:
 
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />
 
+just started to dive in the parallel universe of coding and web development
+i'm amazed by its endless space and limitless opportunities
+i'm courious to get to know all the fascinating creatures out there
+
+high interest in accessible web development
+currently improving my skills
+form follows function
+keep it clean and simple
+
+just started to dive in the depths of web development and coding
+fascinated by its endless space and limitless opportunities
+i'm courious to get to know all the fascinating creative and productive creatures out there
+
 
 # :space_invader:
 # :dart:
