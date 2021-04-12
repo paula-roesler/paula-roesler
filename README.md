@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 
 
 
+
 just started to dive in the parallel universe of coding and web development
 i'm amazed by its endless space and limitless opportunities
 i'm courious to get to know all the fascinating creatures out there
@@ -46,7 +47,8 @@ i'm courious to get to know all the fascinating creative and productive creature
 ## Languages
 <
 img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-
+<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png
+" />
 -->
 
 
