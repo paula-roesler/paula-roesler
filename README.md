@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Paula's GitHub stats](https://github-readme-stats.vercel.app/api?username=paula-roesler&show_icons=true&theme=merco)
+![Paula's GitHub stats](https://github-readme-stats.vercel.app/api?username=paula-roesler&show_icons=true&theme=gruvbox)
 
 <!--
 **paula-roesler/paula-roesler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
