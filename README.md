@@ -12,6 +12,7 @@
 <img height="60" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img height="60" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/storybook/storybook.png" />
 <img height="60" width="60" src="https://raw.githubusercontent.com/testing-library/react-testing-library/master/other/goat.png" />
+<img height="40" width="200" src="https://raw.githubusercontent.com/facebook/jest/master/website/static/img/jest-readme-headline.png" />
 <img height="60" width="200" src="https://cloud.githubusercontent.com/assets/1268976/20607953/d7ae489c-b24a-11e6-9cc4-91c6c74c5e88.png" />
 <img height="70" width="70" src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" />
 
@@ -55,7 +56,6 @@ i'm courious to get to know all the fascinating creative and productive creature
 
 
 <img height="40" width="40" src=" " />
-
 
 
 
