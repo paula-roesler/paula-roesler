@@ -5,6 +5,10 @@
 
 ![Paula's GitHub stats](https://github-readme-stats.vercel.app/api?username=paula-roesler&show_icons=true&theme=tokyonight)
 ![Paula's GitHub stats](https://github-readme-stats.vercel.app/api?username=paula-roesler&show_icons=true&theme=onedark)
+![Paula's GitHub stats](https://github-readme-stats.vercel.app/api?username=paula-roesler&show_icons=true&theme=cobalt)
+![Paula's GitHub stats](https://github-readme-stats.vercel.app/api?username=paula-roesler&show_icons=true&theme=synthwave)
+![Paula's GitHub stats](https://github-readme-stats.vercel.app/api?username=paula-roesler&show_icons=true&theme=highcontrast)
+![Paula's GitHub stats](https://github-readme-stats.vercel.app/api?username=paula-roesler&show_icons=true&theme=dracula)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paula-roesler&layout=compact&show_icons=true&theme=merko&title_color=fcfcfc&text_color=fcfcfc)
 
