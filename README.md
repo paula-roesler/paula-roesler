@@ -14,9 +14,8 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/storybook/storybook.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/testing-library/react-testing-library/master/other/goat.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/facebook/jest/master/website/static/img/jest-readme-headline.png"></code>
-<code><img height="20" rc="https://cloud.githubusercontent.com/assets/1268976/20607953/d7ae489c-b24a-11e6-9cc4-91c6c74c5e88.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png"></code>
-
+<code><img height="40" rc="https://cloud.githubusercontent.com/assets/1268976/20607953/d7ae489c-b24a-11e6-9cc4-91c6c74c5e88.png"></code>
 
 
 
