@@ -16,7 +16,7 @@ Originally coming from graphic design & visual communication i just started to d
 
 <a href="https://github.com/paula-roesler/capstone-project">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=paula-roesler&repo=anuraghazra.github.io&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=paula-roesler&repo=capstone-project&theme=material-palenight" />
 </a>
 
 
