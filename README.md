@@ -7,15 +7,14 @@
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/storybook/storybook.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/testing-library/react-testing-library/master/other/goat.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/facebook/jest/master/website/static/img/jest-readme-headline.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png"></code>
-<code><img height="100" width="200" rc="https://cloud.githubusercontent.com/assets/1268976/20607953/d7ae489c-b24a-11e6-9cc4-91c6c74c5e88.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/storybook/storybook.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/testing-library/react-testing-library/master/other/goat.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/facebook/jest/master/website/static/img/jest-readme-headline.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png"></code>
 
 
 
@@ -45,10 +44,8 @@ Here are some ideas to get you started:
 
 
 
-
-just started to dive in the parallel universe of coding and web development
-i'm amazed by its endless space and limitless opportunities
-i'm courious to get to know all the fascinating creatures out there
+just started to dive in the universe of coding and web development. I'm faszinated by its wide space and limitless opportunities
+i'm courious to get to know all the creators out there
 
 high interest in accessible web development
 currently improving my skills
