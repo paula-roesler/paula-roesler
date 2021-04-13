@@ -24,10 +24,7 @@
 **paula-roesler/paula-roesler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ## Languages & Skills
-<img height="32" width="32" src="https://raw.githubusercontent.com/testing-library/react-testing-library/master/other/goat.png" />
-<img height="40" width="98"  />
-<img height="40" width="120" s />
-<img height="70" width="70"  />
+
 
 
 <a href="https://discord.gg/VK4k3Br">
