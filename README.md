@@ -1,14 +1,7 @@
 ### Hi there 👋
-
+Originally coming from design i just started to dive in the depths of the ocean of coding and web development. Faszinated by its wide space and limitless opportunities I love to get to know great creators out there, be inspired and learn as much as possible every day.
 
 ![Paula's GitHub stats](https://github-readme-stats.vercel.app/api?username=paula-roesler&show_icons=true&theme=merko&title_color=fcfcfc&text_color=fcfcfc)
-
-![Paula's GitHub stats](https://github-readme-stats.vercel.app/api?username=paula-roesler&show_icons=true&theme=tokyonight)
-![Paula's GitHub stats](https://github-readme-stats.vercel.app/api?username=paula-roesler&show_icons=true&theme=onedark)
-![Paula's GitHub stats](https://github-readme-stats.vercel.app/api?username=paula-roesler&show_icons=true&theme=cobalt)
-![Paula's GitHub stats](https://github-readme-stats.vercel.app/api?username=paula-roesler&show_icons=true&theme=synthwave)
-![Paula's GitHub stats](https://github-readme-stats.vercel.app/api?username=paula-roesler&show_icons=true&theme=highcontrast)
-![Paula's GitHub stats](https://github-readme-stats.vercel.app/api?username=paula-roesler&show_icons=true&theme=dracula)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paula-roesler&layout=compact&show_icons=true&theme=merko&title_color=fcfcfc&text_color=fcfcfc)
 
@@ -51,8 +44,10 @@ Here are some ideas to get you started:
 
 
 
-just started to dive in the universe of coding and web development. I'm faszinated by its wide space and limitless opportunities
-i'm courious to get to know all the creators out there
+
+
+
+
 
 high interest in accessible web development
 currently improving my skills
