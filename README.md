@@ -32,17 +32,13 @@ Originally coming from graphic design & visual communication i just started to d
 <code><img height="30" src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png"></code>
 
 
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
 <!--
 **paula-roesler/paula-roesler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-## Languages & Skills
-
-
-
-<a href="https://www.linkedin.com/in/paula-r%C3%B6sler-35a2b215b/">
-  <img align="left" alt="Paula Rösler auf LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />
-</a>
 
 Here are some ideas to get you started:
 
@@ -54,35 +50,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-
-
-
-
-
-
-
-
-
-high interest in accessible web development
-currently improving my skills
-form follows function
-keep it clean and simple
-
-just started to dive in the depths of web development and coding
-fascinated by its endless space and limitless opportunities
-i'm courious to get to know all the fascinating creative and productive creatures out there
-
-
-# :space_invader:
-# :dart:
-# :rocket:
-
-
-
-<img height="40" width="40" src=" " />
-
-
 
 -->
 
