@@ -15,8 +15,7 @@ Originally coming from graphic design & visual communication i just started to d
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paula-roesler&layout=compact&show_icons=true&theme=merko&title_color=fcfcfc&text_color=fcfcfc)
 
 <a href="https://github.com/paula-roesler/capstone-project">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=paula-roesler&repo=capstone-project&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=paula-roesler&repo=capstone-project&theme=merko&title_color=fcfcfc&text_color=fcfcfc" />
 </a>
 
 
