@@ -8,14 +8,6 @@ Originally coming from graphic design & visual communication i just started to d
 </a>
 
 
-| ### Hi there 👋  | **Meet me here** |
-| ------------- | ------------- |
-| Originally coming from graphic design & visual communication i just started to dive in the depths of the ocean of coding and web development. Faszinated by its wide space and limitless opportunities I love to get to know great creators out there, be inspired and learn as much as possible every day.
-  | <a href="https://www.linkedin.com/in/paula-r%C3%B6sler-35a2b215b/">
-  <img  alt="Paula Rösler auf LinkedIn" width="30px" src="https://raw.githubusercontent.com/paula-roesler/paula-roesler/main/linkedin.svg" />
-</a>  |
-
-
 ![Paula's GitHub stats](https://github-readme-stats.vercel.app/api?username=paula-roesler&show_icons=true&theme=merko&title_color=fcfcfc&text_color=fcfcfc)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paula-roesler&layout=compact&show_icons=true&theme=merko&title_color=fcfcfc&text_color=fcfcfc)
