@@ -1,9 +1,9 @@
 ### Hi there 👋
 Originally coming from design i just started to dive in the depths of the ocean of coding and web development. Faszinated by its wide space and limitless opportunities I love to get to know great creators out there, be inspired and learn as much as possible every day.
 
-## Meet me here
+**Meet me here**
 <a href="https://www.linkedin.com/in/paula-r%C3%B6sler-35a2b215b/">
-  <img align="left" alt="Paula Rösler auf LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />
+  <img  alt="Paula Rösler auf LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />
 </a>
 
 
