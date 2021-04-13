@@ -25,7 +25,10 @@ Originally coming from graphic design & visual communication i just started to d
 <code><img height="30" src="https://raw.githubusercontent.com/facebook/jest/master/website/static/img/jest-readme-headline.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png"></code>
 
-
+<a href="https://github.com/paula-roesler/paula-roesler.github.io">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.paula-roesler.vercel.app/api/pin/?username=paula-roesler&repo=anuraghazra.github.io&theme=material-palenight" />
+</a>
 
 <!--
 **paula-roesler/paula-roesler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
