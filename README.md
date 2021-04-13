@@ -1,6 +1,12 @@
 ### Hi there 👋
 Originally coming from design i just started to dive in the depths of the ocean of coding and web development. Faszinated by its wide space and limitless opportunities I love to get to know great creators out there, be inspired and learn as much as possible every day.
 
+## Meet me here
+<a href="https://www.linkedin.com/in/paula-r%C3%B6sler-35a2b215b/">
+  <img align="left" alt="Paula Rösler auf LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />
+</a>
+
+
 ![Paula's GitHub stats](https://github-readme-stats.vercel.app/api?username=paula-roesler&show_icons=true&theme=merko&title_color=fcfcfc&text_color=fcfcfc)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paula-roesler&layout=compact&show_icons=true&theme=merko&title_color=fcfcfc&text_color=fcfcfc)
@@ -25,8 +31,8 @@ Originally coming from design i just started to dive in the depths of the ocean 
 
 
 
-<a href="https://discord.gg/VK4k3Br">
-  <img align="left" alt="Anurag's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
+<a href="https://www.linkedin.com/in/paula-r%C3%B6sler-35a2b215b/">
+  <img align="left" alt="Paula Rösler auf LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />
 </a>
 
 Here are some ideas to get you started:
@@ -40,7 +46,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />
+
 
 
 
