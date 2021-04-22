@@ -1,5 +1,5 @@
 ### Hi there 👋
-Originally coming from graphic design & visual communication i just started to dive in the depths of coding and web development. Faszinated by its wide space and limitless opportunities I love to be inspired by all the great creators out there and learn as much as possible.
+Originally coming from graphic design i just started to dive in the depths of coding and web development. Faszinated by its wide space and limitless opportunities I love to be inspired by all the great creators out there and learn as much as possible.
 
 **Meet me here**
 </br></br>
